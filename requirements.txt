@@ -32,7 +32,10 @@ colorama
 numpy
 pandas
 matplotlib
+<<<<<<< HEAD
 # scikit-learn
+=======
+>>>>>>> e55ea8bce18938ba2615456c53b15a82ef4c0244
 ipykernel
 tabulate
 jupyter
